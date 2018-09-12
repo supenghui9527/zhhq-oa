@@ -6,7 +6,7 @@ import {
   HomeRight
 } from './style';
 import { actionCreators } from './store';
-import Nav from './components/nav';
+import Nav from '../../common/nav';
 class Home extends Component {
   render(){
     return (

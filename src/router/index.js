@@ -1,0 +1,21 @@
+export const homeChild = [{
+  path:'/home/repair',
+  text:'维护保修',
+  id:1
+},{
+  path:'/home/outsale',
+  text:'外卖点餐',
+  id:2
+},{
+  path:'/home/meetting',
+  text:'会务申请',
+  id:3
+},{
+  path:'/home/usecar',
+  text:'用车申请',
+  id:4
+},{
+  path:'/home/meals',
+  text:'用餐申请',
+  id:5
+}]
